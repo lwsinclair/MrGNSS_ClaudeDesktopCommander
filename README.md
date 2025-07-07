@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-mrgnss-claudedesktopcommander-badge.png)](https://mseep.ai/app/mcp-mirror-mrgnss-claudedesktopcommander)
+
 # Desktop Commander MCP
 ![Desktop Commander MCP](logo.png)
 
